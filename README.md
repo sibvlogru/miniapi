@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+## Mini API
 ![Image](https://raw.githubusercontent.com/sibvlogru/miniapi/master/miniapi.png)
+
+Minimalistic API based on docker, nginx, lua and sqlite.
+
+---
 
 You can use the [editor on GitHub](https://github.com/sibvlogru/miniapi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
