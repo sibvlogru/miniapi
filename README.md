@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Image](https://raw.githubusercontent.com/sibvlogru/miniapi/master/miniapi.png)
 
 You can use the [editor on GitHub](https://github.com/sibvlogru/miniapi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
